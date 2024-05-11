@@ -1,4 +1,3 @@
-// Heuristic: FuzzerGenHeuristic6 :: Target: http_parser_parse_url
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdio.h>
